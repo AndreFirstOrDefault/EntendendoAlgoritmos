@@ -1,0 +1,15 @@
+D:\EntendendoAlgoritmos\Exemplo01\bin\Debug\net7.0\Exemplo01.exe
+D:\EntendendoAlgoritmos\Exemplo01\bin\Debug\net7.0\Exemplo01.deps.json
+D:\EntendendoAlgoritmos\Exemplo01\bin\Debug\net7.0\Exemplo01.runtimeconfig.json
+D:\EntendendoAlgoritmos\Exemplo01\bin\Debug\net7.0\Exemplo01.dll
+D:\EntendendoAlgoritmos\Exemplo01\bin\Debug\net7.0\Exemplo01.pdb
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.csproj.AssemblyReference.cache
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.GeneratedMSBuildEditorConfig.editorconfig
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.AssemblyInfoInputs.cache
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.AssemblyInfo.cs
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.csproj.CoreCompileInputs.cache
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.dll
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\refint\Exemplo01.dll
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.pdb
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\Exemplo01.genruntimeconfig.cache
+D:\EntendendoAlgoritmos\Exemplo01\obj\Debug\net7.0\ref\Exemplo01.dll
