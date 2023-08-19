@@ -1,0 +1,14 @@
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\Exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\Exemplo02.AssemblyInfoInputs.cache
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\Exemplo02.AssemblyInfo.cs
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\Exemplo02.csproj.CoreCompileInputs.cache
+D:\EntendendoAlgoritmos\Exemplo02\bin\Debug\net6.0\Exemplo02.exe
+D:\EntendendoAlgoritmos\Exemplo02\bin\Debug\net6.0\Exemplo02.deps.json
+D:\EntendendoAlgoritmos\Exemplo02\bin\Debug\net6.0\Exemplo02.runtimeconfig.json
+D:\EntendendoAlgoritmos\Exemplo02\bin\Debug\net6.0\Exemplo02.dll
+D:\EntendendoAlgoritmos\Exemplo02\bin\Debug\net6.0\Exemplo02.pdb
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\Exemplo02.dll
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\refint\Exemplo02.dll
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\Exemplo02.pdb
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\Exemplo02.genruntimeconfig.cache
+D:\EntendendoAlgoritmos\Exemplo02\obj\Debug\net6.0\ref\Exemplo02.dll

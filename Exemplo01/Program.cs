@@ -1,4 +1,6 @@
-﻿int[] lista = Enumerable.Range(1, 1000).ToArray();
+﻿// Algoritmo de pesquisa binária
+
+int[] lista = Enumerable.Range(1, 1000).ToArray();
 
 int baixo = 1;
 int alto = 10;
